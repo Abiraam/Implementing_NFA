@@ -1,11 +1,3 @@
-Project Team:
-
-	Jackson Garinger
-	Pedro Arredondo
-        Justin Holmes
-	Abiraam Nagarajan
-
-
 Instructions on how to compile & run (Windows):
 
 !!! Make sure you have the g++ compiler installed !!!
