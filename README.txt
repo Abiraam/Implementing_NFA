@@ -16,4 +16,4 @@ Finally, in your command prompt window type the following command:
 
 	runNFA
 
-(Theres a pre compiled exe file included with this project if you can't get it to work)
+(There's a pre compiled exe file included with this project if you can't get it to work)
